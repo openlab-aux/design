@@ -23,3 +23,11 @@ $ sudo fc-cache -v -f -r
  * http://www.google.com/fonts/specimen/Droid+Sans
  * http://en.wikipedia.org/wiki/Droid_fonts
 
+## trash
+
+* https://github.com/openlab-aux/logo/tree/master/trash
+
+### 3d
+
+*
+http://openjscad/#https://raw.github.com/openlab-aux/logo/master/trash/logo.jscad
