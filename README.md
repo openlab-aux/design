@@ -29,5 +29,4 @@ $ sudo fc-cache -v -f -r
 
 ### 3d
 
-*
-http://openjscad/#https://raw.github.com/openlab-aux/logo/master/trash/logo.jscad
+* [logo.jscad](http://openjscad/#https://raw.github.com/openlab-aux/logo/master/trash/logo.jscad)
