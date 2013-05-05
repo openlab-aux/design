@@ -1,0 +1,81 @@
+<?php
+
+if (array_key_exists("d", $_REQUEST) &&
+    array_key_exists("n", $_REQUEST) &&
+    array_key_exists("w", $_REQUEST)) {
+
+    $d = $_REQUEST["d"];
+    $n = $_REQUEST["n"];
+    $w = $_REQUEST["w"];
+
+    $debug = 1;
+    $meta  = 1;
+
+    if (array_key_exists("bytes", $_REQUEST) &&
+                array_key_exists("d", $_REQUEST) &&
+                array_key_exists("n", $_REQUEST) &&
+                array_key_exists("w", $_REQUEST)) {
+
+      $d = $_REQUEST["d"];
+      $n = $_REQUEST["n"];
+      $w = $_REQUEST["w"];
+
+      $args = escapeshellarg($d)." ". escapeshellarg($n)." ". escapeshellarg($w);
+
+        if (isset($_REQUEST["debug"])) {
+          $args .= " ".escapeshellarg($_REQUEST["debug"]) ;
+        } else {
+          $args .= " 7";
+		    }
+
+        if (isset($_REQUEST["meta"])) {
+          $args .= " ".escapeshellarg($_REQUEST["meta"]) ;
+        } else {
+          $args .= " 0";
+		    }
+
+      exec('./logo '.$args.' 2>&1 | wc -c', $output, $return_value);
+
+//      print_r($output);
+      echo implode("\n", $output);
+
+     } else if (is_numeric($d) && is_numeric($n) && is_numeric($w)) {
+      header('Content-type: image/svg+xml');
+
+        $fname = 'logo-'.$d.'x'.$d.'-'.$n.'-'.$w;
+
+        if (isset($_REQUEST["debug"]) && $_REQUEST["debug"] != 0) {
+          $fname .= "-debug";
+        }
+
+        if (isset($_REQUEST["meta"]) && $_REQUEST["meta"] != 0) {
+          $fname .= "-meta";
+        }
+
+        header('Content-Disposition: inline; filename="' . $fname . '.svg"');
+
+        exec("make 2>&1 > /dev/null");
+
+        $args = escapeshellarg($d)." ". escapeshellarg($n)." ". escapeshellarg($w);
+
+        if (isset($_REQUEST["debug"])) {
+          $args .= " ".escapeshellarg($_REQUEST["debug"]) ;
+        } else {
+          $args .= " 7";
+		    }
+
+        if (isset($_REQUEST["meta"])) {
+          $args .= " ".escapeshellarg($_REQUEST["meta"]) ;
+        } else {
+          $args .= " 0";
+		    }
+
+         passthru("./logo ".$args);
+     } else {    
+      echo "error: invalid params.";
+    }
+} else {
+    echo "usage: d=[int] n=[int] w=[int]";
+}
+
+?>

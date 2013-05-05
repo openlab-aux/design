@@ -1,0 +1,227 @@
+<html>
+  <head>
+    <title>OpenLab Logo Editor</title>
+    
+    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+
+    <link type="text/css" href="css/jquery-ui-1.10.2.custom.min.css" rel="Stylesheet" />
+    <script type="text/javascript" src="js/jquery-ui-1.10.2.custom.min.js"></script>
+
+    <script type="text/javascript" src="js/jquery.form.js"></script> 
+    <script type="text/javascript" src="js/jquery.ba-throttle-debounce.js"></script>
+
+    <script type="text/javascript">
+      $(document).ready(function() { 
+        $('input').focus();
+        $('input.segmente').select();
+
+        $('input').addClass("ui-corner-all");
+        $('#logo').addClass("ui-corner-all");
+
+        jQuery.fn.center_h = function () {
+          this.css("position","absolute");
+
+          this.css("left", Math.max(0, (($(window).width() -
+            $(this).outerWidth()) / 2) +
+            $(window).scrollLeft()) + "px");
+
+	      return this;
+        }
+
+        jQuery.fn.horizontal_r = function () {
+          this.css("position","absolute");
+
+          this.css("left", Math.max(0, (($(window).width() -
+            $(this).outerWidth())) +
+            $(window).scrollLeft()) - 15 + "px");
+
+	      return this;
+        }
+
+        jQuery.fn.horizontal_l = function () {
+          this.css("position","absolute");
+
+          this.css("left", 15 + "px");
+
+	      return this;
+        }
+
+        jQuery.fn.center = function () {
+          this.css("position","absolute");
+
+          this.css("top", Math.max(0,
+            (($(window).height() - $(this).outerHeight()) / 2) + 
+            $(window).scrollTop()) + "px");
+
+          this.css("left", Math.max(0, (($(window).width() -
+            $(this).outerWidth()) / 2) +
+            $(window).scrollLeft()) + "px");
+
+          return this;
+        }
+
+        $('#myForm').horizontal_l();
+        $('#myStats').horizontal_r();
+        $('#logo').center();
+
+      $( "#check1" ).button();
+      $( "#check2" ).button();
+      //! $( "#check3" ).button();
+
+        var debug     = 0;
+        var meta      = 0;
+
+        var segmente = 10;
+        var dicke    = 33;
+
+        var bytes    = 42;
+
+        update_images();
+
+        function update_images() {
+          var s = segmente;
+          var d = dicke;
+
+          var bytes  = 0;
+
+	        var link = "logo.svg?n="+s+"&w="+d+"&debug="+debug+"&meta="+meta;
+
+          $("#logo_512_a").attr("href", link + "&d=" + 512);
+          $("#logo_256_a").attr("href", link + "&d=" + 256);
+          $("#logo_128_a").attr("href", link + "&d=" + 128);
+          $("#logo_64_a").attr("href", link + "&d=" + 64);
+          $("#logo_32_a").attr("href", link + "&d=" + 32);
+          $("#logo_16_a").attr("href", link + "&d=" + 16);
+          $("#logo_8_a").attr("href", link + "&d=" + 8);
+
+          $("#logo_512").attr("src", link + "&d=" + 512);
+          $("#logo_256").attr("src", link + "&d=" + 256);
+          $("#logo_128").attr("src", link + "&d=" + 128);
+          $("#logo_64").attr("src",  link + "&d=" +  64);
+          $("#logo_32").attr("src",  link + "&d=" +  32);
+          $("#logo_16").attr("src",  link + "&d=" +  16);
+          $("#logo_8").attr("src",   link + "&d=" +   8);
+
+          var link_bytes = link + "&d=" + 512 + "&bytes=1";
+      
+          var request = $.ajax({
+            url:  link_bytes,
+            type: "get",
+            dataType: 'text',
+            success: function (response) {
+              $("input.bytes").val(response);
+            }
+          });
+        }
+
+        $('input.segmente').keyup( $.debounce( 500, function(val) {
+          segmente = $("input.segmente").val();
+          update_images();
+ 
+          $('input.segmente').focus();
+          $('input.segmente').select();
+        }));
+
+        $('input.dicke').keyup( $.debounce( 500, function input_changed_dicke(val) {
+          dicke = $("input.dicke").val();
+          update_images();
+
+          $('input.dicke').focus();
+          $('input.dicke').select();
+        }));
+
+        $('#check1').button().click(function() {
+          if ($(this).is(':checked')) {
+            debug = 10;
+          } else {
+            debug = 0;
+          }
+
+          update_images();
+        });
+
+        $('#check2').button().click(function() {
+          if ($(this).is(':checked')) {
+            meta = 1;
+          } else {
+            meta = 0;
+          }
+
+          update_images();
+        });
+
+      });
+    </script>
+
+    <style type="text/css" title="text/css">
+      html { 
+        // background: url('img/bg-7667310290_4150b92bcc.jpg');
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+      }
+
+      form, input, div {
+        font-family: 'Lucida Casual', 'Comic Sans MS';   
+        font-size:   100%;
+        padding:     0.1em;
+        margin: 0.15em;
+      }
+
+      div, form, input, button, textarea, select {
+        -moz-border-radius:    0.3em;
+        -webkit-border-radius: 0.3em;
+        border-radius:         0.3em;
+      }
+
+      div, form {
+        padding:                0.3em;
+        border:                 1px solid gray;
+        background:         white;
+        -moz-box-shadow: 0 0 20px black;
+        -webkit-box-shadow: 0 0 20px black;
+        box-shadow: 0 0 20px black;
+      }
+
+      input, button, textarea, select, output, logo {
+        font-family: inherit;
+        font-weight: bolder;
+        font-size:   inherit;
+      }
+
+      input {
+        text-align: right;
+      }
+    </style>
+  <head>
+
+  <body>
+    <div id="logo" class="logo" style='display: inline-block; background-color: white'>
+      <table><tr></td>
+        </td></tr><tr><td>
+          <a id="logo_512_a" target="_blank"><img id="logo_512" width=512 height=512 /></a>
+          <a id="logo_256_a" target="_blank"><img id="logo_256" width=256 height=256 /></a>
+          <a id="logo_128_a" target="_blank"><img id="logo_128" width=128 height=128 /></a>
+          <a id="logo_64_a" target="_blank"><img id="logo_64"  width=128 height=128 /></a>
+          <!--<a id="logo_32_a" target="_blank"><img id="logo_32"  width=128  height=128 /></a>-->
+        </td></tr>
+      </table>
+    </div>
+
+    <form id="myForm" style='width:auto'> 
+     <input type="text" name="segmente" style='width:3em'
+     class="segmente" value='10' autocomplete="off"/> Segmente
+     <input type="text" name="dicke" style='width:3em' class="dicke"
+            value='33' autocomplete="off"/> Dicke
+     <input type="checkbox" id="check1" /><label for="check1">Debug</label>
+     <input type="checkbox" id="check2" /><label for="check2">Meta</label>
+<!--     <input type="checkbox" id="check3" --
+  --     /><label for="check3">Tidy</label> -->
+    </form>
+
+    <form id="myStats" style='width:auto'> 
+      <input type="text" name="bytes" style='width:6em' class="bytes" value='' autocomplete="off"/> Bytes
+    </form>
+  </body
+</html>
