@@ -10,12 +10,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
+   width="1116.8988"
+   height="767.93475"
    id="svg5364"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="openlab.svg"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="logo_orig_rework.svg"
    inkscape:export-filename="/home/johannes/Dropbox/iLive/openlab/openlab.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -71,28 +71,30 @@
     <marker
        inkscape:stockid="TriangleInL"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="TriangleInL"
        style="overflow:visible">
       <path
          id="path3917"
-         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
-         transform="scale(-0.8)" />
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(-0.8,-0.8)"
+         inkscape:connector-curvature="0" />
     </marker>
     <marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="Arrow1Lend"
-       style="overflow:visible;">
+       style="overflow:visible">
       <path
          id="path3787"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
-         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
     </marker>
     <filter
        id="filter8079"
@@ -155,7 +157,9 @@
          k3="1"
          k2="1"
          operator="arithmetic"
-         result="result93" />
+         result="result93"
+         k1="0"
+         k4="0" />
       <feComposite
          id="feComposite8099"
          in2="result93"
@@ -175,43 +179,66 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0200318"
-     inkscape:cx="372.04724"
-     inkscape:cy="923.80256"
+     inkscape:zoom="0.3606357"
+     inkscape:cx="510.76617"
+     inkscape:cy="373.84281"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1364"
-     inkscape:window-height="747"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-midpoints="false">
-    <sodipodi:guide
-       orientation="0,1"
-       position="184.32265,1677.2573"
-       id="guide3765" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="-31.112698,1767.767"
-       id="guide4444" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="-398.80822,1258.6501"
-       id="guide4446" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="-28.284271,1411.3851"
-       id="guide4454" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="-319.61227,1207.7384"
-       id="guide4456" />
+     inkscape:snap-midpoints="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-global="true"
+     fit-margin-top="100"
+     fit-margin-left="100"
+     fit-margin-bottom="100"
+     fit-margin-right="100">
     <inkscape:grid
        type="xygrid"
-       id="grid4458" />
+       id="grid4458"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="65.339231px"
+       originy="-359.42753px" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="210.9155,667.92497"
+       id="guide3859" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="240.82396,388.34328"
+       id="guide3861" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="100,528.13417"
+       id="guide3889" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1016.8988,388.34323"
+       id="guide4081" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="379.58169,667.93477"
+       id="guide4083" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="196.87453,358.93928"
+       id="guide4106" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="79.145732,102.07577"
+       id="guide4222" />
   </sodipodi:namedview>
   <metadata
      id="metadata5369">
@@ -228,50 +255,11 @@
   <g
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(65.339231,75.000178)">
     <text
        xml:space="preserve"
-       style="font-size:245.93661499000003801px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#5c5c5c;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:30.45299999999999940;stroke-miterlimit:9.80000019000000044;stroke-dasharray:none"
-       x="284.21243"
-       y="202.66867"
-       id="text2985"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/johannes/ola-entw.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         id="tspan2987"
-         x="284.21243"
-         y="202.66867"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#5c5c5c;font-family:News Cycle;-inkscape-font-specification:News Cycle Bold;stroke-width:30.45299999999999940;stroke-miterlimit:9.80000019000000044;stroke-dasharray:none;fill-opacity:1">PEN</tspan><tspan
-         sodipodi:role="line"
-         x="284.21243"
-         y="510.08945"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#5c5c5c;font-family:News Cycle;-inkscape-font-specification:News Cycle Bold;stroke-width:30.45299999999999940;stroke-miterlimit:9.80000019000000044;stroke-dasharray:none;fill-opacity:1"
-         id="tspan5227" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:238.51226807px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#5c5c5c;fill-opacity:1;stroke:none;font-family:Sans"
-       x="70.717178"
-       y="386.67621"
-       id="text2985-9"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/johannes/ola-entw.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         x="70.717178"
-         y="386.67621"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#5c5c5c;fill-opacity:1;font-family:News Cycle;-inkscape-font-specification:News Cycle Bold"
-         id="tspan5259">LAB</tspan><tspan
-         sodipodi:role="line"
-         x="70.717178"
-         y="684.81653"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#5c5c5c;fill-opacity:1;font-family:News Cycle;-inkscape-font-specification:News Cycle Bold"
-         id="tspan5227-3" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#5c5c5c;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:30.45299999999999940;stroke-miterlimit:9.80000019000000044;stroke-dasharray:none"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#5c5c5c;fill-opacity:1;stroke:none;font-family:Sans"
        x="411.33044"
        y="418.04346"
        id="text5263"
@@ -282,65 +270,103 @@
          id="tspan5265" /></text>
     <text
        xml:space="preserve"
-       style="font-size:107.29840851px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#5c5c5c;fill-opacity:1;stroke:none;font-family:Sans"
-       x="457.76144"
-       y="292.57535"
-       id="text5303"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/johannes/ola-entw.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         id="tspan5305"
-         x="457.76144"
-         y="292.57535"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#5c5c5c;fill-opacity:1;font-family:News Cycle;-inkscape-font-specification:News Cycle Bold">AUGS</tspan><tspan
-         sodipodi:role="line"
-         x="457.76144"
-         y="426.69836"
-         id="tspan5307"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#5c5c5c;fill-opacity:1;font-family:News Cycle;-inkscape-font-specification:News Cycle Bold" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:107.29840851px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#5c5c5c;fill-opacity:1;stroke:none;font-family:Sans"
-       x="450.37549"
-       y="386.50827"
-       id="text5303-1"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/johannes/ola-entw.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         id="tspan5305-4"
-         x="450.37549"
-         y="386.50827"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#5c5c5c;fill-opacity:1;font-family:News Cycle;-inkscape-font-specification:News Cycle Bold">BURG</tspan><tspan
-         sodipodi:role="line"
-         x="450.37549"
-         y="520.63129"
-         id="tspan5307-9"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#5c5c5c;fill-opacity:1;font-family:News Cycle;-inkscape-font-specification:News Cycle Bold" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#5c5c5c;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:30.45299999999999940;stroke-miterlimit:9.80000019000000044;stroke-dasharray:none"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#5c5c5c;fill-opacity:1;stroke:none;font-family:Sans"
        x="293.25555"
        y="211.41199"
        id="text4422"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4424" /></text>
+         id="tspan4424"
+         x="293.25555"
+         y="211.41199" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:362.23590088px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
+       x="13.806501"
+       y="590.85883"
+       id="text2985-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/johannes/ola-entw.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2987-5"
+         x="13.806501"
+         y="590.85883"
+         style="font-size:347.23202515px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#4d4d4d;fill-opacity:1;font-family:News Cycle;-inkscape-font-specification:News Cycle Bold">LAB</tspan><tspan
+         sodipodi:role="line"
+         x="13.806501"
+         y="1024.8988"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#4d4d4d;fill-opacity:1;font-family:News Cycle;-inkscape-font-specification:News Cycle Bold"
+         id="tspan5227-0" /></text>
     <path
-       sodipodi:type="arc"
-       style="fill:none;stroke:#444444;stroke-width:27.23888016;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:9.80000019;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none"
-       id="path4450"
-       sodipodi:cx="250.19633"
-       sodipodi:cy="153.32535"
-       sodipodi:rx="65.873688"
-       sodipodi:ry="65.873688"
-       d="M 315.96659,149.63528 A 65.873688,65.873688 0 1 1 251.36815,87.462084"
-       sodipodi:start="6.2271387"
-       sodipodi:end="11.013364"
-       transform="matrix(-1.1939524,0,0,1.1939524,478.7259,-70.005885)"
-       sodipodi:open="true" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#0088aa;fill-opacity:1;stroke:none;stroke-width:29.74740791;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 174.4614,24.999822 0,44.111555 c 53.10822,0 95.68905,42.580763 95.68905,95.689053 0,53.10828 -42.58083,95.6695 -95.68905,95.6695 -53.1083,0 -95.728134,-42.56122 -95.728134,-95.6695 l -44.072497,0 c 0,76.94546 62.855131,139.78109 139.800631,139.78109 76.94543,0 139.78106,-62.83563 139.78106,-139.78109 0,-76.945487 -62.83563,-139.800608 -139.78106,-139.800608 z"
+       id="path3941-4"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:394.27368164px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
+       x="326.33002"
+       y="304.59137"
+       id="text2985"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/johannes/ola-entw.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="326.33002"
+         y="304.59137"
+         style="font-size:377.94277954px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#4d4d4d;fill-opacity:1;font-family:News Cycle;-inkscape-font-specification:News Cycle Bold">PEN</tspan><tspan
+         sodipodi:role="line"
+         x="326.33002"
+         y="777.01984"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#4d4d4d;fill-opacity:1;font-family:News Cycle;-inkscape-font-specification:News Cycle Bold"
+         id="tspan5227" /></text>
+    <g
+       id="g4190"
+       transform="matrix(0.43639091,0,0,0.43639091,-162.61391,323.08134)">
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/johannes/ola-entw.png"
+         sodipodi:linespacing="125%"
+         id="text2985-0-7-0"
+         y="304.59131"
+         x="1700.9379"
+         style="font-size:394.27368164px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0088aa;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:377.94274902px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#0088aa;fill-opacity:1;font-family:News Cycle;-inkscape-font-specification:News Cycle Bold"
+           y="304.59131"
+           x="1700.9379"
+           id="tspan2987-5-0-0"
+           sodipodi:role="line">AUGS</tspan><tspan
+           id="tspan5227-0-0-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#0088aa;fill-opacity:1;font-family:News Cycle;-inkscape-font-specification:News Cycle Bold"
+           y="777.01978"
+           x="1700.9379"
+           sodipodi:role="line" /></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/johannes/ola-entw.png"
+         sodipodi:linespacing="125%"
+         id="text2985-0-7-0-8"
+         y="613.57697"
+         x="1695.4016"
+         style="font-size:394.27368164px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0088aa;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:377.94274902px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#0088aa;fill-opacity:1;font-family:News Cycle;-inkscape-font-specification:News Cycle Bold"
+           y="613.57697"
+           x="1695.4016"
+           id="tspan2987-5-0-0-9"
+           sodipodi:role="line">BURG</tspan><tspan
+           id="tspan5227-0-0-1-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#0088aa;fill-opacity:1;font-family:News Cycle;-inkscape-font-specification:News Cycle Bold"
+           y="1086.0054"
+           x="1695.4016"
+           sodipodi:role="line" /></text>
+    </g>
   </g>
 </svg>
