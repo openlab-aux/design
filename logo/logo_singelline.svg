@@ -14,8 +14,8 @@
    height="484.3154"
    id="svg5364"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="logo_singelline_orig.svg"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="logo_singelline.svg"
    inkscape:export-filename="/tmp/openlab_wp.png"
    inkscape:export-xdpi="18.997721"
    inkscape:export-ydpi="18.997721">
@@ -180,17 +180,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.3606357"
-     inkscape:cx="1388.8633"
-     inkscape:cy="169.02221"
+     inkscape:cx="1327.9952"
+     inkscape:cy="125.65241"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1600"
-     inkscape:window-height="836"
+     inkscape:window-height="834"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-midpoints="false"
      inkscape:snap-object-midpoints="true"
@@ -227,6 +227,10 @@
        orientation="1,0"
        position="379.58169,381.87069"
        id="guide4083" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="2066.0253,99.999987"
+       id="guide3029" />
   </sodipodi:namedview>
   <metadata
      id="metadata5369">
@@ -236,7 +240,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
