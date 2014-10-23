@@ -11,10 +11,10 @@ In [rendered](rendered) befinden sich zudem noch gerenderte Logo-Grafiken als .p
 * Grau #4d4d4d (CMYK: 0 0 0 70)
 
 ### Signet
-![signet](rendered/signet_300px.png)
+![signet](rendered/signet_100px.png)
 
 ### Logo standard
-![logo](rendered/logo_400px.png)
+![logo](rendered/logo_200px.png)
 
 ### Logo einzeilige Variante
-![logo single line](rendered/logo_singleline_600px.png)
+![logo single line](rendered/logo_singleline_300px.png)
