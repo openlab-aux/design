@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="getränkekasse.svg">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       id="perspective8038"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient8030">
+      <stop
+         id="stop8032"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       osb:paint="gradient"
+       id="linearGradient8014">
+      <stop
+         id="stop8016"
+         offset="0"
+         style="stop-color:#303030;stop-opacity:1;" />
+      <stop
+         style="stop-color:#303030;stop-opacity:0.74901961;"
+         offset="0.25"
+         id="stop8026" />
+      <stop
+         style="stop-color:#303030;stop-opacity:0.49803922;"
+         offset="1"
+         id="stop8024" />
+      <stop
+         id="stop8018"
+         offset="1"
+         style="stop-color:#303030;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       osb:paint="gradient"
+       id="linearGradient6569">
+      <stop
+         id="stop6571"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop6573"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="TriangleInL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.8,-0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path3917" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3787" />
+    </marker>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.25"
+       y="-0.25"
+       width="1.5"
+       height="1.5"
+       inkscape:menu-tooltip="Illuminated stained glass effect"
+       inkscape:menu="Bevels"
+       inkscape:label="Stained glass"
+       id="filter8079">
+      <feBlend
+         mode="screen"
+         result="result1"
+         in2="SourceGraphic"
+         id="feBlend8081" />
+      <feGaussianBlur
+         result="result6"
+         stdDeviation="7"
+         id="feGaussianBlur8083" />
+      <feComposite
+         result="result7"
+         in="result6"
+         operator="xor"
+         in2="result6"
+         id="feComposite8085" />
+      <feComposite
+         result="result92"
+         in="result6"
+         operator="atop"
+         in2="result1"
+         id="feComposite8087" />
+      <feComposite
+         operator="xor"
+         in="result7"
+         result="result4"
+         in2="result92"
+         id="feComposite8089" />
+      <feGaussianBlur
+         in="result4"
+         stdDeviation="0.7"
+         result="result3"
+         id="feGaussianBlur8091" />
+      <feSpecularLighting
+         surfaceScale="4"
+         specularConstant="1.5"
+         specularExponent="50"
+         result="result5"
+         id="feSpecularLighting8093">
+        <fePointLight
+           x="-5000"
+           y="-8000"
+           z="20000"
+           id="fePointLight8095" />
+      </feSpecularLighting>
+      <feComposite
+         k4="0"
+         k1="0"
+         result="result93"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in="result3"
+         in2="SourceGraphic"
+         id="feComposite8097" />
+      <feComposite
+         result="result94"
+         operator="atop"
+         in="result5"
+         in2="result93"
+         id="feComposite8099" />
+      <feBlend
+         mode="multiply"
+         in2="result94"
+         id="feBlend8101" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="460.32747"
+     inkscape:cy="410.7686"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:measure-start="862.383,573.419"
+     inkscape:measure-end="812.857,573.419"
+     inkscape:window-width="1559"
+     inkscape:window-height="961"
+     inkscape:window-x="89"
+     inkscape:window-y="44"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.22222137px;line-height:6.61458302px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="21.921341"
+       y="162.98364"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="21.921341"
+         y="162.98364"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.22222137px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px">Bar &amp; Getränke</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:6.61458302px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="23.159592"
+       y="174.02907"
+       id="text16"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         x="23.159592"
+         y="174.02907"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px">Getränkekasse ist auf der anderen Seite!</tspan></text>
+    <g
+       transform="matrix(0.34120131,0,0,0.35719133,169.90622,133.1382)"
+       id="layer1-6"
+       inkscape:label="Ebene 1">
+      <text
+         id="text5263"
+         y="418.04346"
+         x="411.33044"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#5c5c5c;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan5265"
+           sodipodi:role="line"
+           x="411.33044"
+           y="453.48541" /></text>
+      <text
+         id="text4422"
+         y="211.41199"
+         x="293.25555"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#5c5c5c;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="246.85394"
+           x="293.25555"
+           id="tspan4424"
+           sodipodi:role="line" /></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path3941-4"
+         d="m 174.4614,24.999822 v 44.111555 c 53.10822,0 95.68905,42.580763 95.68905,95.689053 0,53.10828 -42.58083,95.6695 -95.68905,95.6695 -53.1083,0 -95.728134,-42.56122 -95.728134,-95.6695 H 34.660769 c 0,76.94546 62.855131,139.78109 139.800631,139.78109 76.94543,0 139.78106,-62.83563 139.78106,-139.78109 0,-76.945487 -62.83563,-139.800608 -139.78106,-139.800608 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#0088aa;fill-opacity:1;stroke:none;stroke-width:29.74740791;marker:none;enable-background:accumulate" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:6.61458302px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="23.0273"
+       y="246.0697"
+       id="text4929"><tspan
+         sodipodi:role="line"
+         id="tspan4927"
+         x="23.0273"
+         y="246.0697"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px">Eistee </tspan><tspan
+         sodipodi:role="line"
+         x="23.0273"
+         y="252.68428"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px"
+         id="tspan4931" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:6.61458349px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="23.309521"
+       y="221.90741"
+       id="text4929-5"><tspan
+         sodipodi:role="line"
+         id="tspan4927-3"
+         x="23.309521"
+         y="221.90741"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px">Afri Cola</tspan><tspan
+         sodipodi:role="line"
+         x="23.309521"
+         y="228.52199"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px"
+         id="tspan4931-5" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:6.61458302px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="23.309521"
+       y="233.37561"
+       id="text4956"><tspan
+         sodipodi:role="line"
+         id="tspan4954"
+         x="23.309521"
+         y="233.37561"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px">Apfelschorle</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:6.61458349px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="23.221327"
+       y="198.44183"
+       id="text4929-5-1"><tspan
+         sodipodi:role="line"
+         id="tspan4927-3-27"
+         x="23.221327"
+         y="198.44183"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px">Club Mate</tspan><tspan
+         sodipodi:role="line"
+         x="23.221327"
+         y="205.05641"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px"
+         id="tspan4931-5-0" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:6.61458349px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="23.0273"
+       y="210.17462"
+       id="text4929-5-1-9"><tspan
+         sodipodi:role="line"
+         id="tspan4927-3-27-3"
+         x="23.0273"
+         y="210.17462"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px">Flora Power</tspan><tspan
+         sodipodi:role="line"
+         x="23.0273"
+         y="216.7892"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px"
+         id="tspan4931-5-0-6" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:6.61458349px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="23.221327"
+       y="257.88187"
+       id="text4956-0"><tspan
+         sodipodi:role="line"
+         id="tspan4954-6"
+         x="23.221327"
+         y="257.88187"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px">Cola Mix </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="97.320587"
+       y="234.87138"
+       id="text5069"><tspan
+         sodipodi:role="line"
+         id="tspan5067"
+         x="97.320587"
+         y="234.87138"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px">1 €</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="97.320587"
+       y="246.60416"
+       id="text5069-2"><tspan
+         sodipodi:role="line"
+         id="tspan5067-6"
+         x="97.320587"
+         y="246.60416"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px">1 €</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="97.320587"
+       y="258.33694"
+       id="text5069-2-1"><tspan
+         sodipodi:role="line"
+         id="tspan5067-6-8"
+         x="97.320587"
+         y="258.33694"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px">1 €</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="83.326607"
+       y="221.43115"
+       id="text5069-7"><tspan
+         sodipodi:role="line"
+         id="tspan5067-9"
+         x="83.326607"
+         y="221.43115"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px">1,50 €</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="83.326607"
+       y="197.96558"
+       id="text5069-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan5067-9-0"
+         x="83.326607"
+         y="197.96558"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px">1,50 €</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="95.749619"
+       y="210.6297"
+       id="text5069-23"><tspan
+         sodipodi:role="line"
+         id="tspan5067-7"
+         x="95.749619"
+         y="210.6297"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px">2 €</tspan></text>
+  </g>
+</svg>
