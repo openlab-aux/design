@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.0 r15299"
-   sodipodi:docname="getränkekasse.svg">
+   sodipodi:docname="getraenke-bar.svg">
   <defs
      id="defs2">
     <inkscape:perspective
@@ -178,7 +178,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="460.32747"
+     inkscape:cx="568.8989"
      inkscape:cy="410.7686"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -187,8 +187,8 @@
      inkscape:measure-end="812.857,573.419"
      inkscape:window-width="1559"
      inkscape:window-height="961"
-     inkscape:window-x="89"
-     inkscape:window-y="44"
+     inkscape:window-x="85"
+     inkscape:window-y="58"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
@@ -198,7 +198,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -261,155 +261,155 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:6.61458302px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="23.0273"
-       y="246.0697"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:6.61458302px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="23.477402"
+       y="245.09831"
        id="text4929"><tspan
          sodipodi:role="line"
          id="tspan4927"
-         x="23.0273"
-         y="246.0697"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px">Eistee </tspan><tspan
+         x="23.477402"
+         y="245.09831"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.26458332px">Eistee </tspan><tspan
          sodipodi:role="line"
-         x="23.0273"
-         y="252.68428"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px"
+         x="23.477402"
+         y="251.71289"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.26458332px"
          id="tspan4931" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:6.61458349px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="23.309521"
-       y="221.90741"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:6.61458349px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="23.759623"
+       y="220.26331"
        id="text4929-5"><tspan
          sodipodi:role="line"
          id="tspan4927-3"
-         x="23.309521"
-         y="221.90741"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px">Afri Cola</tspan><tspan
+         x="23.759623"
+         y="220.26331"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.26458332px">Afri Cola</tspan><tspan
          sodipodi:role="line"
-         x="23.309521"
-         y="228.52199"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px"
+         x="23.759623"
+         y="226.87788"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.26458332px"
          id="tspan4931-5" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:6.61458302px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="23.309521"
-       y="233.37561"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:6.61458302px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="23.759623"
+       y="232.8186"
        id="text4956"><tspan
          sodipodi:role="line"
          id="tspan4954"
-         x="23.309521"
-         y="233.37561"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px">Apfelschorle</tspan></text>
+         x="23.759623"
+         y="232.8186"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.26458332px">Apfelschorle</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:6.61458349px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:6.61458349px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="23.221327"
-       y="198.44183"
+       y="195.1053"
        id="text4929-5-1"><tspan
          sodipodi:role="line"
          id="tspan4927-3-27"
          x="23.221327"
-         y="198.44183"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px">Club Mate</tspan><tspan
+         y="195.1053"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.26458332px">Club Mate</tspan><tspan
          sodipodi:role="line"
          x="23.221327"
-         y="205.05641"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px"
+         y="201.71988"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.26458332px"
          id="tspan4931-5-0" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:6.61458349px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="23.0273"
-       y="210.17462"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:6.61458349px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="23.477402"
+       y="207.66061"
        id="text4929-5-1-9"><tspan
          sodipodi:role="line"
          id="tspan4927-3-27-3"
-         x="23.0273"
-         y="210.17462"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px">Flora Power</tspan><tspan
+         x="23.477402"
+         y="207.66061"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.26458332px">Flora Power</tspan><tspan
          sodipodi:role="line"
-         x="23.0273"
-         y="216.7892"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px"
+         x="23.477402"
+         y="214.27519"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.26458332px"
          id="tspan4931-5-0-6" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:6.61458349px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="23.221327"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:6.61458349px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="23.671429"
        y="257.88187"
        id="text4956-0"><tspan
          sodipodi:role="line"
          id="tspan4954-6"
-         x="23.221327"
+         x="23.671429"
          y="257.88187"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px">Cola Mix </tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.26458332px">Cola Mix </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="97.320587"
-       y="234.87138"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:6.61458302px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="95.591148"
+       y="232.85034"
        id="text5069"><tspan
          sodipodi:role="line"
          id="tspan5067"
-         x="97.320587"
-         y="234.87138"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px">1 €</tspan></text>
+         x="95.591148"
+         y="232.85034"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.26458332px">1 €</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="97.320587"
-       y="246.60416"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:6.61458349px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="95.591148"
+       y="245.59364"
        id="text5069-2"><tspan
          sodipodi:role="line"
          id="tspan5067-6"
-         x="97.320587"
-         y="246.60416"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px">1 €</tspan></text>
+         x="95.591148"
+         y="245.59364"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.26458332px">1 €</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="97.320587"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:6.61458349px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="95.591148"
        y="258.33694"
        id="text5069-2-1"><tspan
          sodipodi:role="line"
          id="tspan5067-6-8"
-         x="97.320587"
+         x="95.591148"
          y="258.33694"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px">1 €</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.26458332px">1 €</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:6.61458349px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="83.326607"
-       y="221.43115"
+       y="220.11565"
        id="text5069-7"><tspan
          sodipodi:role="line"
          id="tspan5067-9"
          x="83.326607"
-         y="221.43115"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px">1,50 €</tspan></text>
+         y="220.11565"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.26458332px">1,50 €</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="83.326607"
-       y="197.96558"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:6.61458349px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="81.597168"
+       y="194.79955"
        id="text5069-7-2"><tspan
          sodipodi:role="line"
          id="tspan5067-9-0"
-         x="83.326607"
-         y="197.96558"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px">1,50 €</tspan></text>
+         x="81.597168"
+         y="194.79955"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.26458332px">1,50 €</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="95.749619"
-       y="210.6297"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:6.61458349px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="94.02018"
+       y="207.36374"
        id="text5069-23"><tspan
          sodipodi:role="line"
          id="tspan5067-7"
-         x="95.749619"
-         y="210.6297"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332px">2 €</tspan></text>
+         x="94.02018"
+         y="207.36374"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.26458332px">2 €</tspan></text>
   </g>
 </svg>
