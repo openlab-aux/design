@@ -1,34 +1,11 @@
-# logo
+# Logo
 
-* #333333, CMYK 00000080
+![Logo](https://github.com/openlab-aux/design/blob/master/logo/png-files/logo-explainer.png)
 
-## signet
 
- * 'Drawing Circles with Rational Quadratic Bezier Curves', Detlef Reimers, 2011-09-01.
- * https://de.wikipedia.org/wiki/Rasterung_von_Kreisen
- * https://en.wikipedia.org/wiki/Midpoint_circle_algorithm
-
-## logo = signet + schrift
-
- * http://www.fontsquirrel.com/fonts/news-cycle
-
-```bash
-$ mkdir ~/.fonts
-$ cp newscycle-* ~/.fonts
-$ sudo fc-cache -v -f -r
-```
-
-## plakat
-
- * http://www.google.com/fonts/specimen/Droid+Sans
- * http://en.wikipedia.org/wiki/Droid_fonts
-
-## trash
-
-* https://github.com/openlab-aux/logo/tree/master/trash
-
-### 3d
-
-* [trash/logo.jscad](http://openjscad.org/#https://raw.github.com/openlab-aux/logo/master/trash/logo.jscad)
-
+#Farben
+* Grün: RGB #006845, H 160 S 100 L 20
+* Rot: RGB #E52A1A, H 5 S 80 L 50 
+* Gelb: RGB #FFAA00, H 40 S 100 L 50
+* Weiß: RGB #000000, H xx S 100 L 100
 
